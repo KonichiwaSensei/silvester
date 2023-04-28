@@ -42,3 +42,89 @@ img{
     top: 10rem;
     /* box-shadow: 5px 5px lightblue; */
 }
+
+/* 
+
+html {
+
+    box-sizing: border-box;
+  
+  }
+  
+  *,
+  
+  *:before,
+  
+  *:after {
+  
+    box-sizing: inherit;
+  
+  }
+  
+   
+  
+  html {
+  
+    font-family: "Open Sans", sans-serif;
+  
+    font-size: 1rem;
+  
+    color: white;
+  
+  }
+  
+   
+  
+  body {
+  
+    width: 100vw;
+  
+    height: 100vh;
+  
+    background: white url("img/bg.svg") center/cover no-repeat;
+  
+  }
+  
+   
+  
+  .product {
+  
+    width: 80vw;
+  
+    margin: 2rem auto;
+  
+  }
+  
+   
+  
+  .product__promo {
+  
+    font-size: 1.1rem;
+  
+    width: 30vw;
+  
+    margin-top: 10vh;
+  
+  }
+  
+   
+  
+  .product__promo h1 {
+  
+    font-weight: 900;
+  
+  }
+  
+   
+  
+  .product__image {
+  
+    width: 30vw;
+  
+    position: absolute;
+  
+    left: 50vw;
+  
+    top: 5vh;
+  
+  } */
